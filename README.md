@@ -1,5 +1,6 @@
 Kalkulator
 ==========
+[![forthebadge](http://forthebadge.com/images/badges/for-sharks.svg)](http://forthebadge.com)
 
 Introduction
 ------------
